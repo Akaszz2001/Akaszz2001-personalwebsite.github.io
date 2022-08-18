@@ -1,8 +1,12 @@
 body{
-   background-color: rgb(147, 185, 147);
+   background-color: #c5ddc8;
    
 }
+.footer{
+   background-color: #0f4d19;
+}
 #home{
+   background-color: #0f4d19;
    position: fixed;
    width: 100%;
    z-index: 1;
@@ -25,4 +29,8 @@ html{
 .fa-brands{
    font-size: 30px;
    width: 80px;
+}
+#pDetails{
+   background-color:#a2cfa9 ;
+ 
 }

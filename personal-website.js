@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $(".card ").mouseenter(function () { 
-   $(this).css({"background-color":"#28a745"})
+   $(this).css({"background-color":"#6fc27c"})
   });
   $(".card ").mouseleave(function () { 
    $(this).css({"background-color":"white"})
