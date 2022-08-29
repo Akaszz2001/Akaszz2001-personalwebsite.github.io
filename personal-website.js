@@ -34,7 +34,7 @@ $(document).ready(function(){
   })
 })
 
-
+/* contact form validation */
 $(document).ready(function(){
   $(".form-group").validate({
     rules:{
@@ -65,7 +65,7 @@ $(document).ready(function(){
       },
       email:{
         required:"Must required this field...",
-        email:"Enter a valid email address",
+        email:"Please enter  a valid email address",
       },
       mob:{
         required:"Mobile number is required...",

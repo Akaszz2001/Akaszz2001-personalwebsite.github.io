@@ -1,19 +1,8 @@
 body{
-<<<<<<< HEAD
    background-color: rgb(147, 185, 147);
    
 }
 #home{
-=======
-   background-color: #c5ddc8;
-   
-}
-.footer{
-   background-color: #0f4d19;
-}
-#home{
-   background-color: #0f4d19;
->>>>>>> 9a683749917e8dfec20bb4e46ecac51920875f22
    position: fixed;
    width: 100%;
    z-index: 1;
@@ -22,7 +11,7 @@ body{
    padding-top: 9em;
 }
 html{
-   scroll-behavior: smooth;
+   scroll-behavior: smooth;/* used to scroll smoothly */
 }
 .error{
    color: red;
@@ -37,10 +26,3 @@ html{
    font-size: 30px;
    width: 80px;
 }
-<<<<<<< HEAD
-=======
-#pDetails{
-   background-color:#a2cfa9 ;
- 
-}
->>>>>>> 9a683749917e8dfec20bb4e46ecac51920875f22
