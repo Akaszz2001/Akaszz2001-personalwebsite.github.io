@@ -11,7 +11,7 @@ body{
    padding-top: 9em;
 }
 html{
-   scroll-behavior: smooth;
+   scroll-behavior: smooth;/* used to scroll smoothly */
 }
 .error{
    color: red;
